@@ -2,6 +2,7 @@
 - 👀 I’m interested in MIPS/RISC-V/X86_64 Assembly, Computer Organization, Operating Systems, Alogorithm, and Compilers
 - 🌱 I’m currently learning Distributed Systems
 - 💞️ I’m looking to collaborate on RISC-V CPU 
+- 🐱‍🏍 I Can code in C/C++ Python Java Visual Basic and Assembly
 - 📫 How to reach me ... I've no idea.
 
 <!---
