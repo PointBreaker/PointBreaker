@@ -6,33 +6,33 @@
 - 📫 How to reach me ... I've no idea.
 - 👀 My Goal List
 
-[MIT 6.NULL : Shell]()
+  - [MIT 6.NULL : Shell]()
 
-[CS61A : Python SICP]()
+  - [CS61A : Python SICP]()
 
-[CS61B : Java, Data Structure]()
+  - [CS61B : Java, Data Structure]()
 
-[CS61C : RISC-V, Computer Organization]()
+  - [CS61C : RISC-V, Computer Organization]()
 
-[Golang]()
+  - [Golang]()
 
-[HDLBits]()
+  - [HDLBits]()
 
-[CMU 15-213 : x86 Assembly, System Programming]()
+  - [CMU 15-213 : x86 Assembly, System Programming]()
 
-[CS537 : Operating Systems]()
+  - [CS537 : Operating Systems]()
 
-[CS144 : Computer Network]()
+  - [CS144 : Computer Network]()
 
-[MIT6.830 : DataBase Systems]()
+  - [MIT6.830 : DataBase Systems]()
 
-[MIT6.858 : Computer System Security]()
+  - [MIT6.858 : Computer System Security]()
 
-[CS143 : The Compiler]()
+  - [CS143 : The Compiler]()
 
-[CS229 : Machine Learning]()
+  - [CS229 : Machine Learning]()
 
-[CS231N : Deep Learning]()
+  - [CS231N : Deep Learning]()
 
 
 <!---
