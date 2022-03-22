@@ -6,4 +6,4 @@ __________       __  .____
  |____|   \____/|__| |_______ \____/\___  / 
                              \/    /_____/
 ```
-[![Potlog's github stats](https://github-readme-stats-lnncdg0rh-francois-rozet.vercel.app/api?username=rapiz1&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/pull/1186)
+[![Potlog's github stats](https://github-readme-stats-lnncdg0rh-francois-rozet.vercel.app/api?username=PointBreaker&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/pull/1186)
